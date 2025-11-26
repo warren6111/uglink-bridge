@@ -1,5 +1,5 @@
 name = "ugreen"
-main = "src/index.js"
+main = "dist/index.js"
 compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
